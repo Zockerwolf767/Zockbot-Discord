@@ -141,4 +141,4 @@ async def commands(ctx, amount=1):
   
   
 keep_alive.keep_alive()
-bot.run('ODkwMzYyMjc0NjE3OTE3NDgw.YUusfA.JfEgurc7LMZ2rgTQjqpZqlOslLg')
+bot.run('TOKEN')
