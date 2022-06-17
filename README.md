@@ -6,7 +6,7 @@ Discord bot by Zockerwolf76
 
 API: [discord.py](https://discordpy.readthedocs.io/en/stable/)
 
-## Usage:d
+## Usage:de
 
 use this link: [link](https://discord.com/oauth2/authorize?client_id=890362274617917480&permissions=8&scope=bot)
 
