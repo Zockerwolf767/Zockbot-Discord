@@ -17,7 +17,7 @@ from requests import get
 from keep_alive import keep_alive
 
 
-#config
+#configs
 token = ("ENTER-YOUR-TOKEN") #token
 bot = commands.Bot(command_prefix="+") #prefix
 slash = SlashCommand(bot, sync_commands=True)
