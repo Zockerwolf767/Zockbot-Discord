@@ -16,7 +16,7 @@ from disnake import Guild
 from requests import get
 from keep_alive import keep_alive
 
-#2
+
 #config
 token = ("ENTER-YOUR-TOKEN") #token
 bot = commands.Bot(command_prefix="+") #prefix
