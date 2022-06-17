@@ -15,7 +15,7 @@ from colorama import Fore, Style
 from disnake import Guild
 from requests import get
 from keep_alive import keep_alive
-#2
+#237
 
 #config
 token = ("ENTER-YOUR-TOKEN") #token
